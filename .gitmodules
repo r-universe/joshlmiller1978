@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TSE"]
+	path = TSE
+	url = https://github.com/cran/TSE
+	shallow = true
+	registered = true
+[submodule "TSEind"]
+	path = TSEind
+	url = https://github.com/cran/TSEind
+	shallow = true
+	registered = true
+[submodule "TSEwgt"]
+	path = TSEwgt
+	url = https://github.com/cran/TSEwgt
+	shallow = true
+	registered = true
+[submodule "WgtEff"]
+	path = WgtEff
+	url = https://github.com/cran/WgtEff
+	shallow = true
+	registered = true
